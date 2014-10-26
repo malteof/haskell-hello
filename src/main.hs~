@@ -1,3 +1,0 @@
-module haskell-hello.test where
-
-main = 1
